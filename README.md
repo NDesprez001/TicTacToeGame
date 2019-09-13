@@ -1,2 +1,0 @@
-# TicTacToeGame
-Created with CodeSandbox
